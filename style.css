@@ -215,7 +215,7 @@ position: relative;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding: 0 10px;
+  padding: 0 px;
   text-align: center;
   font-size: 14px;
   transition: 0.5s;
@@ -376,4 +376,9 @@ nav .fa-solid {
   
 
   
+}
+#msg {
+  color: #61b752;
+  margin-top: -40px;
+  display: block;
 }
